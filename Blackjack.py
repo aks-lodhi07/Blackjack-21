@@ -66,8 +66,6 @@ def compare(user_score,computer_score):
             return "You Win 😃"
       else:
             return "You Lose 😭"
-
-
 def clear():
       os.system('cls' if os.name == 'nt' else 'clear')
 
