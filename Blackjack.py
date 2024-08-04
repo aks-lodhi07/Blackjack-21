@@ -72,6 +72,7 @@ def clear():
       os.system('cls' if os.name == 'nt' else 'clear')
 
 def play_blackjack():
+     print("WELCOME TO THE ARENA OF BLACKJACK!\n\n")
       print('''
 .------.            _     _            _    _            _    
 |A_  _ |.          | |   | |          | |  (_)          | |   
